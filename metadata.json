@@ -1,0 +1,5 @@
+{
+  "name": "HMV Mania Client",
+  "description": "A client application to browse HMV Mania videos, offering search, pagination, random video selection, and detailed video views.",
+  "requestFramePermissions": []
+}
